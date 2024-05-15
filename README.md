@@ -1,5 +1,4 @@
 
-<span style="font-size:7em;">Mathias Julliat</span>
-
+<h1>Mathias Julliat</h1>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMobbi&layout=compact)
