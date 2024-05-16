@@ -5,7 +5,7 @@
   
 <h2 align="center">Working on</h2>
 
-- ft_malloc : <a href="https://github.com/MrMobbi/ft_malloc">
+- ft_malloc <a href="https://github.com/MrMobbi/ft_malloc">@malloc</a>
 
 
 ## Statistics
