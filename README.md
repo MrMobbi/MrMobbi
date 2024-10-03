@@ -8,7 +8,8 @@ I’m Mathias, a student at 42 with a passion for photography, climbing and skat
 - Tools: Git, Docker, Linux
 - Areas of Interest: Learning of how a computer work and low level language, Peer-to-Peer Learning, Project-Based Education
 
-## 🌟 Project i'm working on:
+## 🌟 Projects:
+**Curently working on:**
 1. **ft_malloc : [https://github.com/MrMobbi/ft_malloc]**
 
 ## 📫 Contact:
