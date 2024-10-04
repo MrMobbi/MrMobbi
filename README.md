@@ -7,11 +7,15 @@ I’m Mathias, a student at 42 with a passion for photography, climbing and skat
 - Languages: C/C++, Python, Bash
 - Tools: Git, Docker, Linux
 - Areas of Interest: Learning of how a computer work and low level language, Peer-to-Peer Learning, Project-Based Education
-- Linux enjoyer
+- Linux enjoyer and Neovim fan
 
-## 🌟 Projects:
-**Curently working on:**
-1. **ft_malloc : [https://github.com/MrMobbi/ft_malloc]**
+## 🌟 Projects
+
+### Currently Working On:
+- **ft_malloc**: https://github.com/MrMobbi/ft_malloc
+
+### 42 Cursus:
+- **Common Core**: https://github.com/MrMobbi/42-common_core
 
 ## 📫 Contact:
 - Email: mjulliat@student.42lausanne.ch
