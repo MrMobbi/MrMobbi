@@ -7,7 +7,7 @@ I’m Mathias, a student at 42 with a passion for photography, climbing and skat
 - Languages: C/C++, Python, Bash
 - Tools: Git, Docker, Linux
 - Areas of Interest: Learning of how a computer work and low level language, Peer-to-Peer Learning, Project-Based Education
-- Linux enjoyer and Neovim fan
+- Linux enjoyer and vim enthusiast -> [my config](https://github.com/MrMobbi/Config_Vim)
 
 ## 🌟 Projects
 
