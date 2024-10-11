@@ -25,5 +25,5 @@ I’m Mathias, a student at 42 with a passion for photography, climbing and skat
 
 
 ## Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMobbi&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMobbi&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMobbi&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMobbi&show_icons=true&theme=tokyonight&rank_icon=github)
