@@ -12,10 +12,11 @@ I’m Mathias, a student at 42 with a passion for photography, climbing and skat
 ## 🌟 Projects
 
 ### Currently Working On:
-- **ft_malloc**: https://github.com/MrMobbi/ft_malloc
+- **[Python for Data Science](https://github.com/MrMobbi/python-for-data-science)**
 
 ### 42 Cursus:
-- **Common Core**: https://github.com/MrMobbi/42-common_core
+- **[Common Core](https://github.com/MrMobbi/42-common_core)**
+- **[Specialization](https://github.com/MrMobbi/42-Specialization)**
 
 ## 📫 Contact:
 - Email: mjulliat@student.42lausanne.ch
