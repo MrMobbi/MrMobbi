@@ -12,7 +12,7 @@ I’m Mathias, a student at 42 with a passion for photography, climbing and skat
 ## 🌟 Projects
 
 ### Currently Working On:
-- **[ft_ls](https://github.com/MrMobbi/ft_ls)**
+- **[little-penguin](https://github.com/MrMobbi/little-penguin)**
 
 ### 42 Cursus:
 - **[Common Core](https://github.com/MrMobbi/42-common_core)**
