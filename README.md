@@ -13,6 +13,8 @@ I’m Mathias, a student at 42 with a passion for photography, climbing and skat
 
 ### Currently Working On:
 - **[little-penguin](https://github.com/MrMobbi/little-penguin)**
+- **[Inception-of-thing](https://github.com/MrMobbi/Inception-Of-Thing)**
+- **[Rubik](https://github.com/MrMobbi/Rubik)**
 
 ### 42 Cursus:
 - **[Common Core](https://github.com/MrMobbi/42-common_core)**
