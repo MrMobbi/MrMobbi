@@ -24,6 +24,7 @@ xp needed 0/50000
 #### Kernel and Unix ####
 - **ft_linux (4200xp)** Done
 - **malloc (9450xp)** Done
+- **little_penguin** currenly working on it
 - **KFS 1 to 5 or 6 (a lot of xp)**
 
 xp needed 13650/3000
