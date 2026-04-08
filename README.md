@@ -11,6 +11,31 @@ I’m Mathias, a student at 42 with a passion for photography, climbing and skat
 
 ## 🌟 Projects
 
+### Project i need to do ###
+
+#### Devops ####
+- **Inception of things (25450xp)** currently working on it
+- **ft_ping (4200xp)**
+- **cloud1 (9450xp)**
+- **Bgp At Doors of Autonomous Systems is Simple (22450xp)**
+
+xp needed 0/50000
+
+#### Kernel and Unix ####
+- **ft_linux (4200xp)** Done
+- **malloc (9450xp)** Done
+- **KFS 1 to 5 or 6 (a lot of xp)**
+
+xp needed 13650/3000
+
+#### Security ####
+- **ft_malcom**
+- **Snowcrash**
+- **Famine**
+- **Woddy Woodpacker**
+
+xp needed 0/50000
+
 ### Currently Working On:
 - **[little-penguin](https://github.com/MrMobbi/little-penguin)**
 - **[Inception-of-thing](https://github.com/MrMobbi/Inception-Of-Thing)**
