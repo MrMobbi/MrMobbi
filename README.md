@@ -14,17 +14,17 @@ I’m Mathias, a student at 42 with a passion for photography, climbing and skat
 ### Project i need to do ###
 
 #### Devops ####
-- **Inception of things (25450xp)** currently working on it
-- **ft_ping (4200xp)**
+- **Inception of things (25450xp)** WIP [Repo](https://github.com/MrMobbi/Inception-Of-Thing)
+- **ft_ping (4200xp)** WIP [Repo](https://github.com/MrMobbi/ft_ping)
 - **cloud1 (9450xp)**
 - **Bgp At Doors of Autonomous Systems is Simple (22450xp)**
 
 xp needed 0/50000
 
 #### Kernel and Unix ####
-- **ft_linux (4200xp)** Done
-- **malloc (9450xp)** Done
-- **little_penguin** currenly working on it
+- **ft_linux (4200xp)** Done [Repo](https://github.com/MrMobbi/ft_linux)
+- **malloc (9450xp)** Done [Repo](https://github.com/MrMobbi/ft_malloc)
+- **little_penguin(9450xp)** WIP [Repo](https://github.com/MrMobbi/little-penguin)
 - **KFS 1 to 5 or 6 (a lot of xp)**
 
 xp needed 13650/3000
@@ -40,7 +40,8 @@ xp needed 0/50000
 ### Currently Working On:
 - **[little-penguin](https://github.com/MrMobbi/little-penguin)**
 - **[Inception-of-thing](https://github.com/MrMobbi/Inception-Of-Thing)**
-- **[Rubik](https://github.com/MrMobbi/Rubik)**
+- **[ft_ping](https://github.com/MrMobbi/ft_ping)**
+- **[Rubik](https://github.com/MrMobbi/Rubik) PROJECT IN STANDBY**
 
 ### 42 Cursus:
 - **[Common Core](https://github.com/MrMobbi/42-common_core)**
