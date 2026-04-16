@@ -22,12 +22,12 @@ I’m Mathias, a student at 42 with a passion for photography, climbing and skat
 xp needed 0/50000
 
 #### Kernel and Unix ####
-- **ft_linux (4200xp)** Done [Repo](https://github.com/MrMobbi/ft_linux)
-- **malloc (9450xp)** Done [Repo](https://github.com/MrMobbi/ft_malloc)
+- **ft_linux (4376xp)** Done [Repo](https://github.com/MrMobbi/ft_linux)
+- **malloc (8390xp)** Done [Repo](https://github.com/MrMobbi/ft_malloc)
 - **little_penguin(9450xp)** WIP [Repo](https://github.com/MrMobbi/little-penguin)
 - **KFS 1 to 5 or 6 (a lot of xp)**
 
-xp needed 13650/3000
+xp needed 12766/3000
 
 #### Security ####
 - **ft_malcom**
